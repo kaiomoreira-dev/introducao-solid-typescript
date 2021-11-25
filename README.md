@@ -3,8 +3,8 @@
 ## Plataforma de aprendizado
 * Rockeseat
 
-## Cursos
-* Ignite Trilha Nodejs
+## Curso
+* BootCamp Ignite Trilha Nodejs
 
 ## Desafio04
 * Criar uma API seguindo a estrutura de arquitetura limpa utilizando SOLID. E fazer a documentação do código com a ferramenta Swagger.
