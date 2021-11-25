@@ -11,7 +11,7 @@
 
 ## Descrição
 
-* Desenvolver uma aplicação utilizando conceitos SOLID, Estrutura limpa utilizando conceito de separação, Correção de código através do Eslint e Prettier. Também deve ser utilizar um instancia do tipo Singleton Pattern.
+* Desenvolver uma aplicação utilizando Nodejs e adicionar os conceitos SOLID, Estrutura limpa utilizando conceito de separação, Correção de código através do Eslint e Prettier. Também deve ser utilizar um instancia do tipo Singleton Pattern.
 
 ## Recurso
 
@@ -63,10 +63,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/kaiomoreira-dev/conceitos-nodejs.git>
+$ git clone <https://github.com/kaiomoreira-dev/introducao-solid-typescript.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd conceitos-nodejs
+$ cd introducao-solid-typescript
 
 # Vá para a pasta src
 $ cd src
