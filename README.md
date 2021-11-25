@@ -7,7 +7,7 @@
 * Ignite Trilha Nodejs
 
 ## Desafio04
-* Criar uma API seguindo a estrutura de arquitetura limpa utilizando SOLID.
+* Criar uma API seguindo a estrutura de arquitetura limpa utilizando SOLID. E fazer a documentação do código com a ferramenta Swagger.
 
 ## Descrição
 
